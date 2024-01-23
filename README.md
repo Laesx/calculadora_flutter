@@ -1,6 +1,6 @@
 # Calculadora Flutter
 
-![demo-ezgif com-video-to-gif-converter](https://github.com/Laesx/calculadora_flutter/assets/51269470/934fe018-9cb7-4bde-a632-f384d150c6e2)
+<p align="center"><img alt="Demo de la Calculadora" src="https://github.com/Laesx/calculadora_flutter/assets/51269470/934fe018-9cb7-4bde-a632-f384d150c6e2" style="width: 300px"/></p>
 
 Proyecto hecho para clase
 
